@@ -1,5 +1,6 @@
 Simulador de Máquina de Lenguaje Ensamblador
-Este proyecto es un simulador de una máquina de lenguaje ensamblador implementado en C. El programa lee instrucciones desde un archivo de texto y las ejecuta.
+Este proyecto es un simulador de una máquina de lenguaje ensamblador implementado en C.
+El programa lee instrucciones desde un archivo de texto y las ejecuta.
 
 Características
 SET: Permite establecer un valor a una clave.
